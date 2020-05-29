@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello baby 456, anh den day tu chieu
+=======
+Hello baby 123, anh den day tu chieu
+>>>>>>> DAT
 toi co the cho ban dieu gi
 hay noi toi yeu ban
